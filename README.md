@@ -1,4 +1,4 @@
-### Hi there 👋
+[### Hi there 👋
 
 <!--
 **Thinhpt264/Thinhpt264** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+](http://github-profile-summary-cards.vercel.app/api/cards/stats?username={Thinhpt264}&theme={stats_card}
+
+)
