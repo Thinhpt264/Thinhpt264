@@ -20,4 +20,4 @@
 [![](https://img.shields.io/badge/osu!-ff66ab)](https://www.linkedin.com/in/thinh-phan-570a8915a)
 [![](https://img.shields.io/badge/enka.network-69899c)](https://www.linkedin.com/in/thinh-phan-570a8915a)
 </div>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/Thinhpt264/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thinhpt264)](https://github.com/Thinhpt264/github-readme-stats)
