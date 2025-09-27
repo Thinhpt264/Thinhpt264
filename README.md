@@ -26,6 +26,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thinhpt264&layout=compact&theme=radical" height="180" />
 
 </div>
-<div align= "center">
-    [![GitHub Streak](https://streak-stats.demolab.com?user=Thinhpt264&theme=tokyonight&short_numbers=true&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat)](https://git.io/streak-stats)
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=Thinhpt264&theme=tokyonight&short_numbers=true&exclude_days=Sun%2CMon%2CTue%2CWed%2CThu%2CFri%2CSat" alt="GitHub Streak" />
+  </a>
 </div>
