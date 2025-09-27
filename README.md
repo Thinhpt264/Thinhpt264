@@ -20,16 +20,9 @@
 [![](https://img.shields.io/badge/osu!-ff66ab)](https://www.linkedin.com/in/thinh-phan-570a8915a)
 [![](https://img.shields.io/badge/enka.network-69899c)](https://www.linkedin.com/in/thinh-phan-570a8915a)
 </div>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thinhpt264)](https://github.com/Thinhpt264/github-readme-stats)
+<div align="center">
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=Thinhpt264&show_icons=true&theme=radical" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thinhpt264&layout=compact&theme=radical" height="180" />
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Thinhpt264&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Thinhpt264&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=Thinhpt264&show_icons=true" />
-</picture>
+</div>
